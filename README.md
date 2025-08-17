@@ -68,6 +68,8 @@ All files are saved in a `GroupData` folder for easy organization.
 
 **Please contact orange_dev_arlo on Discord for any questions or suggestions!**
 
+***And NO! This is NOT and exploit!***
+
 <img width="2343" height="1200" alt="image" src="https://github.com/user-attachments/assets/9e97d561-534f-469f-a90f-7a86d26d90d5" />
 <img width="1848" height="732" alt="Screenshot 2025-08-15 152711" src="https://github.com/user-attachments/assets/61ab2aa7-091f-4c25-939d-267ffcbd1080" />
 <img width="416" height="916" alt="image" src="https://github.com/user-attachments/assets/df981d02-b7fd-4bda-af93-a5cef2bed03e" />
