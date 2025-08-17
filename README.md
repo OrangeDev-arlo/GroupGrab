@@ -31,7 +31,7 @@ All files are saved in a `GroupData` folder for easy organization.
    ```
 2. Run the script:
    ```bash
-   python group-grab.py
+   python group-grab.py (or group-grab-v2.py or any other version)
    ```
 3. When prompted, type:
    ```
