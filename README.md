@@ -65,6 +65,7 @@ All files are saved in a `GroupData` folder for easy organization.
 - Very large groups may take longer to scan due to pagination.
 - The program only collects publicly available group membership information.
 - Visual Learner? I get it! Here is a video of the live demo of me setting up the program. ~~~ https://youtu.be/ZT9JYQOmDJo
+- The program takes around ~5 mins per 100,000 users.
 
 **Please contact orange_dev_arlo on Discord for any questions or suggestions!**
 
